@@ -23,7 +23,7 @@
 /
 ATOMIC_SPECIES
 Ba 137.327 Ba.pbe-spn-kjpaw_psl.1.0.0.UPF
-Ti 47.867 Ti_pbe_v1.4.uspp.F.UPF
+Ti 47.867 ti_pbe_v1.4.uspp.F.UPF
 O 15.999 O.pbe-n-kjpaw_psl.0.1.UPF
 
 CELL_PARAMETERS angstrom
